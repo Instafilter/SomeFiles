@@ -1,5 +1,5 @@
 DistMin:1
-DistMax:2
+DistMax:2.5
 DotOut:0.9
 DotIn:0.99
 DotFrameHide:0.975
