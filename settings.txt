@@ -1,0 +1,6 @@
+DistMin:1
+DistMax:2
+DotOut:0.975
+DotIn:0.99
+DotFrameHide:0.975
+Zoom:2
