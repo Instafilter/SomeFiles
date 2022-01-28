@@ -1,6 +1,7 @@
-DistMin:1
-DistMax:2.5
+DistLeftMin:1
+DistLeftMax:50
+DistRightMin:1
+DistRightMax:50
 DotOut:0.9
-DotIn:0.99
-DotFrameHide:0.975
+DotIn:0.985
 Zoom:2
