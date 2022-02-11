@@ -2,6 +2,6 @@ DistLeftMin:0.5
 DistLeftMax:70
 DistRightMin:0.5
 DistRightMax:70
-DotOut:0.5
-DotIn:0.5
+DotOut:0.7
+DotIn:0.7
 Zoom:2
